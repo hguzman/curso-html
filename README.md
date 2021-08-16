@@ -9,3 +9,5 @@
 ## Enlaces
 
 - [Aula clic](https://www.aulaclic.es/html/)
+
+![image](guias/foto.jpeg {width=40px height=40px})

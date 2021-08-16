@@ -26,6 +26,3 @@ El aprendiz debe construir su propia hoja de vida en formato HTML, el documento 
     - Correo electronico
     - Fotografia
 
-1. Fotografia.
-2. Enlaces
-3. Redes 
